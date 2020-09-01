@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "andyfusniak-blog",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
