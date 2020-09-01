@@ -1,0 +1,4 @@
+baseURL = "https://blog.andyfusniak.com/"
+languageCode = "en-gb"
+title = "Andy Fusniak's Blog"
+theme = "beautifulhugo"
