@@ -1,4 +1,6 @@
 baseURL = "https://blog.andyfusniak.com/"
 languageCode = "en-gb"
 title = "Andy Fusniak's Blog"
+author = "Andy Fusniak"
 theme = "beautifulhugo"
+disqusShortname = "andy-fusniak-blog"

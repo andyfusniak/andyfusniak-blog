@@ -2,6 +2,9 @@
 title: "Test Post"
 date: 2020-09-01T11:50:27+01:00
 draft: true
+author: Andy Fusniak
+tags: ["go"]
+comments: true
 ---
 # Heading One
 
